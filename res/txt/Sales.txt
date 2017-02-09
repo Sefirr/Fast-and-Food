@@ -1,0 +1,618 @@
+28
+
+0
+Pepe Gomez
+--
+3
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.95
+1
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+1
+
+12
+Patatas fritas
+COMPLEMENTOS
+1.0
+1
+
+--
+23-07-2014
+8.35
+true
+
+1
+Manolito Gafotas
+--
+2
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+2
+
+12
+Patatas fritas
+COMPLEMENTOS
+1.0
+1
+
+--
+24-07-2014
+3.8
+true
+
+2
+Paco Howarts
+--
+1
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.95
+2
+
+--
+24-07-2014
+11.9
+true
+
+3
+Pablo de los Romanos
+--
+3
+
+12
+Patatas fritas
+COMPLEMENTOS
+1.0
+1
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+1
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.95
+1
+
+--
+24-07-2014
+8.35
+true
+
+4
+Priscilla Matos
+--
+1
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.0
+1
+
+--
+24-07-2014
+1.0
+true
+
+5
+Pepe Gomez
+--
+3
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.6
+4
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+3
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.0
+1
+
+--
+25-07-2014
+28.0
+true
+
+6
+Gonzalo Jiménez
+--
+2
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.6
+1
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+1
+
+--
+25-07-2014
+7.0
+true
+
+7
+Martin Serrano
+--
+1
+
+123
+Filete de ternera
+CARNE
+1.3
+2
+
+--
+27-07-2014
+2.6
+true
+
+8
+Marco Polo
+--
+3
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+1
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.0
+1
+
+123
+Filete de ternera
+CARNE
+10.3
+2
+
+--
+27-07-2014
+42.6
+true
+
+9
+Ana María
+--
+2
+
+123
+Filete de ternera
+CARNE
+10.3
+2
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.0
+1
+
+--
+28-07-2014
+21.6
+true
+
+10
+Rito Pressman
+--
+3
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.0
+1
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.7
+4
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+3
+
+--
+28-07-2014
+28.0
+true
+
+11
+San Corolla
+--
+2
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.7
+2
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.0
+2
+
+--
+28-07-2014
+13.4
+true
+
+12
+Philip Grace
+--
+1
+
+40
+Manolitos
+POSTRE
+3.4
+2
+
+--
+28-07-2014
+6.8
+true
+
+13
+Perico de los Palotes
+--
+2
+
+123
+Filete de Ternera
+CARNE
+10.3
+1
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+1
+
+--
+29-07-2014
+11.7
+true
+
+14
+Clara Sanchez
+--
+1
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.6
+2
+
+--
+29-07-2014
+11.2
+true
+
+15
+Hernán Gomez
+--
+5
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+2
+
+123
+Filete de ternera
+CARNE
+10.3
+2
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.6
+4
+
+40
+Manolitos
+POSTRE
+3.4
+2
+
+3
+Pan de pita
+POSTRE
+2.31
+1
+
+--
+01-08-2014
+54.91
+true
+
+16
+Julián Cortés
+--
+6
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+3
+
+123
+Filete de ternera
+CARNE
+10.3
+3
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.7
+2
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.0
+2
+
+3
+Pan de pita
+POSTRE
+2.31
+4
+
+40
+Manolitos
+POSTRE
+3.4
+1
+
+--
+02-08-2014
+61.14
+true
+
+17
+Peter
+--
+1
+
+23
+Ensalada cesar
+ENSALADAS
+5.7
+1
+
+--
+22-09-2015
+5.7
+true
+
+18
+CAS
+--
+2
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+6.3
+2
+
+40
+Manolitos
+POSTRE
+3.4
+4
+
+--
+22-09-2015
+26.2
+true
+
+19
+Pot
+--
+2
+
+12
+Patatas fritas
+COMPLEMENTOS
+1.0
+1
+
+30
+Pepitos
+POSTRE
+1.5
+2
+
+--
+22-09-2015
+4.0
+true
+
+20
+Pop
+--
+1
+
+23
+Ensalada cesar
+ENSALADAS
+5.7
+1
+
+--
+22-09-2015
+5.7
+true
+
+21
+Pita
+--
+1
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+6.3
+2
+
+--
+22-09-2015
+12.6
+true
+
+22
+Parma
+--
+2
+
+30
+Pepitos
+POSTRE
+1.5
+2
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+6.3
+1
+
+--
+22-09-2015
+9.3
+true
+
+23
+Pipa
+--
+1
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+6.3
+1
+
+--
+22-09-2015
+6.3
+true
+
+24
+Lei
+--
+1
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+6.3
+1
+
+--
+22-09-2015
+6.3
+true
+
+25
+Jager
+--
+1
+
+3
+Pan de pita
+POSTRE
+2.31
+3
+
+--
+22-09-2015
+6.93
+true
+
+26
+Bob
+--
+2
+
+23
+Ensalada cesar
+ENSALADAS
+5.7
+2
+
+3
+Pan de pita
+POSTRE
+2.31
+1
+
+--
+22-09-2015
+13.71
+true
+
+27
+Pepito Manolo
+--
+1
+
+30
+Pepitos
+POSTRE
+1.5
+2
+
+--
+26-11-2015
+3.0
+true
+

@@ -1,0 +1,34 @@
+POSIBLES CAMBIOS EN LA APLICACIÓN
+- Hacer un instalador para que descargue la carpeta de ficheros y el programa en c:/hlocal/Archivos de Programa/Fast and food 
+y de posibilidad de hacer acceso directo.
+-Ampliar el módulo de usuarios para que de esta forma se pueda usar la aplicación sin tener estar registrado
+en la aplicación. Esto permitirá que los clientes del establecimiento puedan pedir lo que quieran evitando 
+crear largas colas a lo largo del establecimiento.
+-Añadir un módulo que permita generar facturas en formato pdf para que se puedan imprimir.
+-Añadir un módulo que permita crear categorias y almacenarlas en cualquier formato. Las categorías sirven para
+categorizar a los productos. Por defecto, formato .txt,
+-Centrar la información tanto en las tablas como en los campos de texto que usa la aplicación como mejora visual.
+-Mejoras visuales en la aplicación para dimisular un poco la interfaz de swing.
+-Hacer uso de los frameworks que ofrece java, en concreto, struts.
+-Añadir variable de configuración del acceso a datos.
+-Añadir nuevos accesos a datos: via MYSQL (usando el framework JPA), vía XML(usando el framework hibernate).
+
+-- TODO ESTO VA ORIENTADO A LA CREACIÓN DE UNA APLICACIÓN QUE PUEDE SER UTILIZADA TANTO EN UN ORDENADOR EN PANTALLA TÁCTIL COMO UNO SIN EL--
+-Cambiar tabla de productos por iconos que tengan un fondo verde o rojo en función de si están disponibles o no.
+-Añadir imagenes a los productos.
+
+MEJORA DE LA SEGURIDAD DE LA APLICACIÓN
+-Añadir un sistema de plugins para que todo en la aplicación se pueda añadir como hooks.
+-Añadir un módulo de permisos, para que en función de él, se añadan los botones de los menús. Así,
+habría posibilidad de modificar permisos.
+-Añadir un módulo de rangos, más flexible.
+-Hacer la capa de presentación en HTML+CSS+Javascript.
+-Encriptar la información sensible.
+
+CAMBIOS A REALIZAR EN ESTA VERSION (0.3)
+-Comentar todo el código:
+-com			100 %
+-com.util		100 %
+-com.controller 100 %
+-com.gui		 95 %
+-com.model		  5 %

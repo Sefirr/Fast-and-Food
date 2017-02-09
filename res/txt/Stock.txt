@@ -1,0 +1,62 @@
+10
+
+23
+Ensalada cesar
+ENSALADAS
+5.7
+55
+
+12
+Patatas fritas
+COMPLEMENTOS
+1.0
+54
+
+123
+Filete de ternera
+CARNE
+10.3
+42
+
+30
+Pepitos
+POSTRE
+1.5
+34
+
+3
+Pan de pita
+POSTRE
+2.31
+31
+
+1
+Pan de gambas
+COMPLEMENTOS
+2.1
+30
+
+0
+Hamburguesa de carne
+HAMBURGUESAS
+5.6
+20
+
+9939
+Botella de agua pequeña
+BEBIDAS
+1.2
+17
+
+1232
+Coca-cola grande
+BEBIDAS
+1.4
+15
+
+40
+Manolitos
+POSTRE
+3.4
+8
+
